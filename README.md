@@ -97,7 +97,7 @@ source ~/.bashrc
 
 **Installing**
 ```bash
-pipx install git+https://github.com/0SINTr/osintr.git
+pipx install git+https://github.com/pdudotdev/osintr.git
 ```
 
 After installation, **on the first run**, you're going to see an output similar to the one below. Don't panic, it's the **spaCy** library downloading its **NER Model**.
