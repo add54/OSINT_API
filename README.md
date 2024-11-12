@@ -1,10 +1,10 @@
 ![osintr](osintr/docs/osintr.png)
 # OSINTr
-**[OFM](https://github.com/0SINTr/ofm) Stage 1 tool for GRASS (Google Recursive Advanced Search & Scrape)**
+**[OFM](https://github.com/pdudotdev/ofm) Stage 1 tool for GRASS (Google Recursive Advanced Search & Scrape)**
 
 [![Python Version](https://img.shields.io/badge/python-3.10+-green)](https://www.python.org)
-[![Stable Release](https://img.shields.io/badge/version-0.3.0-blue.svg)](https://github.com/0SINTr/osintr/releases/tag/v0.3.0)
-[![Last Commit](https://img.shields.io/github/last-commit/0SINTr/osintr)](https://github.com/0SINTr/osintr/commits/main)
+[![Stable Release](https://img.shields.io/badge/version-0.3.0-blue.svg)](https://github.com/pdudotdev/osintr/releases/tag/v0.3.0)
+[![Last Commit](https://img.shields.io/github/last-commit/pdudotdev/osintr)](https://github.com/pdudotdev/osintr/commits/main)
 
 **OSINTr** helps you build a strong foundation for any OSINT investigation by quickly creating a **digital footprint** of the target via recursive advanced Google searches via **SerperDev** and **Firecrawl** APIs.
 
@@ -14,7 +14,7 @@
 
 ### 🔎 Data Collection
 
-**OSINTr** works best on Linux and tackles **Stage 1 of the [OFM](https://github.com/0SINTr/ofm)** workflow by performing **GRASS** (Google Recursive Advanced Search & Scrape).
+**OSINTr** works best on Linux and tackles **Stage 1 of the [OFM](https://github.com/pdudotdev/ofm)** workflow by performing **GRASS** (Google Recursive Advanced Search & Scrape).
 - Requires a **target** for the **OSINT investigation** (see **Usage** below).   
 - Ensure you add your API keys (see **API Keys** below) before running the tool.
 
@@ -162,7 +162,7 @@ Some output was **omitted** for brevity.
 - Any illegal or unethical use of the tool is **your** responsibility.
 
 ## 📜 License
-**osintr** is licensed under the [GNU GENERAL PUBLIC LICENSE Version 3](https://github.com/0SINTr/osintr/blob/main/LICENSE).
+**osintr** is licensed under the [GNU GENERAL PUBLIC LICENSE Version 3](https://github.com/pdudotdev/osintr/blob/main/LICENSE).
 
 ## 📄 Support
 
@@ -170,15 +170,3 @@ Some output was **omitted** for brevity.
 
 - [SerperDev API docs](https://serper.dev/)
 - [Firecrawl API docs](https://docs.firecrawl.dev/introduction)
-
-## 📧 Professional Collaborations
-
-- **Email Address**:  
-  Please direct your inquiries to **sintr.0@pm.me**.
-
-- **Important Guidelines**:  
-  - Use a **professional email** or a **ProtonMail** address.
-  - Keep your message **concise** and written in **English**.
-
-- **Security Notice**:  
-  Emails with **links** or **attachments** will be ignored for security reasons.
